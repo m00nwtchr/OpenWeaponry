@@ -1,0 +1,16 @@
+[
+{
+  "modid": "openweaponry",
+  "name": "OpenWeaponry",
+  "description": "A mod which adds various OpenComputers-activated weapons.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["lukas2005"],
+  "credits": "@Spooticus#4421",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
