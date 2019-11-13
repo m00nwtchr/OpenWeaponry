@@ -1,2 +1,2 @@
-# PressF
-Pres F to pay respects
+# OpenWeaponry
+A mod which adds various OpenComputers-activated weapons.
