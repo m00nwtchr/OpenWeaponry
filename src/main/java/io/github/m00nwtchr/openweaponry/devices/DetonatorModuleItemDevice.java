@@ -55,8 +55,6 @@ public final class DetonatorModuleItemDevice extends AbstractItemRPCDevice {
 			super(ModItems.DETONATOR_MODULE);
 		}
 
-		///////////////////////////////////////////////////////////////////
-
 		@Override
 		protected Optional<ItemDevice> getItemDevice(final ItemDeviceQuery query) {
 			return Optional.of(new DetonatorModuleItemDevice(query.getItemStack(), query.getContainerEntity()));
@@ -64,7 +62,6 @@ public final class DetonatorModuleItemDevice extends AbstractItemRPCDevice {
 
 		@Override
 		protected int getItemDeviceEnergyConsumption(final ItemDeviceQuery query) {
-			// return Config.soundCardEnergyPerTick;
 			return 0;
 		}
 	}

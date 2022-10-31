@@ -17,7 +17,7 @@ apply plugin: 'net.minecraftforge.gradle'
 
 def modId = 'openweaponry'
 
-version = '1.0'
+version = '2.0'
 group = "io.github.m00nwtchr.${modId}" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = modId
 
