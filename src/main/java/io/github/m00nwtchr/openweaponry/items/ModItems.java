@@ -11,5 +11,5 @@ import net.minecraftforge.registries.RegistryObject;
 public class ModItems {
 	public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Reference.MOD_ID);
 
-	public static final RegistryObject<DetonatorCardItem> DETONATOR_CARD = ITEMS.register("detonator_card", DetonatorCardItem::new);
+	public static final RegistryObject<DetonatorModuleItem> DETONATOR_MODULE = ITEMS.register("detonator_module", DetonatorModuleItem::new);
 }

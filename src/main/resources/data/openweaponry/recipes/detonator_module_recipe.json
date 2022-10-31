@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"TNG",
+		" B "
+	],
+	"key": {
+		"T": {
+			"item": "oc2:transistor"
+		},
+		"N": {
+			"item": "minecraft:tnt"
+		},
+		"G": {
+			"tag": "forge:ingots/gold"
+		},
+		"B": {
+			"item": "oc2:circuit_board"
+		}
+	},
+	"result": {
+		"item": "openweaponry:detonator_module"
+	}
+}
